@@ -40,3 +40,4 @@ The generated site will be committed to the [gh-pages branch](https://github.com
 * bugfix/abc-123
 Second Commit
 3rd commit
+4th commit
