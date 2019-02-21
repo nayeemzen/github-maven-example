@@ -40,3 +40,4 @@ The generated site will be committed to the [gh-pages branch](https://github.com
 * feature/abc-123-def
 2nd commit
 Hello
+Hello
