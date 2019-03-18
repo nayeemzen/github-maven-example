@@ -5,6 +5,7 @@ pipeline {
     stages {
         stage('maven_3_jdk_13') {
             steps {
+                sh 'echo $CUSTOM_FILE'
                 sh 'mvn --version'
                 sh 'java -version'
                 sh 'mvn install'
